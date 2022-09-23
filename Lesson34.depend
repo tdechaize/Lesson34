@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1360519373 source:c:\src\opengl\lesson34\lesson34.c
+	<windows.h>
+	<stdio.h>
+	<gl\gl.h>
+	<gl\glu.h>
+
+1452013362 source:c:\src\opengl\lesson34\lesson34.rc
+	<windows.h>
+	<winver.h>
+	"resource.h"
+
+1452013409 c:\src\opengl\lesson34\resource.h
+
+1630926901 source:c:\src\opengl\nehe_lesson34-master\lesson34.rc
+	<windows.h>
+	<winver.h>
+	"resource.h"
+
+1630926901 c:\src\opengl\nehe_lesson34-master\resource.h
+
+1663947686 source:c:\src\opengl\nehe_lesson34-master\src\lesson34.rc
+	<windows.h>
+	<winver.h>
+	"resource.h"
+
+1630930501 c:\src\opengl\nehe_lesson34-master\src\resource.h
+
